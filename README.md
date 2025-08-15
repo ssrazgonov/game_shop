@@ -188,5 +188,5 @@ POST   /api/skins/{id}/buy       → купить скин
 | `create_users_table.php`     | Пользователи |
 | `create_wallets_table.php`   | Кошельки (связь 1:1 с пользователем) |
 | `create_skins_table.php`     | Каталог скинов |
-| `create_purchases_table.php` | Покупки (связь many-to-many через промежуточную таблицу) |
+| `create_purchases_table.php` | Покупки |
 
